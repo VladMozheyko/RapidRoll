@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <color android:name="colorPrimary"
+        tools:ignore="ExtraText">#95B7E9</color>
+    <color android:name="colorSecondary">#FDC2BD</color>
+</resources>
